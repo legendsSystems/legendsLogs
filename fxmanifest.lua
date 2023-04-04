@@ -1,4 +1,4 @@
-version("1.1.3")
+version("1.1.4")
 author("legendsSystems")
 description("FXServer logs to Discord (https://legends.systems/)")
 repository("https://github.com/legendsSystems/legendsLogs")
