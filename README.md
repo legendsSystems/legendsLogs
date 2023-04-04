@@ -8,6 +8,7 @@
 </h4>
 
 <div align="center">
+NOT READY FOR USE!!!
   <a href="https://github.com/legendsSystems/legendsLogs">
     <img src="https://i.gyazo.com/3894b03d4351bcb566ec85afc7f9b231.png">
   </a>
