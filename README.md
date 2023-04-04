@@ -5,7 +5,6 @@
 	<img src="https://img.shields.io/github/last-commit/legendsSystems/legendsLogs">
 	<img src="https://img.shields.io/github/license/legendsSystems/legendsLogs.png">
 	<img src="https://img.shields.io/github/issues/legendsSystems/legendsLogs.png">
-	<a href="https://discord.gg/legendsSystems" title=""><img alt="Discord Status" src="https://cdn.discordapp.com/attachments/1092235101879926854/1092235730924883968/legends-high-resolution-logo-white-on-transparent-background.png"></a>
 </h4>
 
 <div align="center">
