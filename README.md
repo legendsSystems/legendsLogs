@@ -5,7 +5,6 @@
 	<img src="https://img.shields.io/github/last-commit/legendsSystems/legendsLogs">
 	<img src="https://img.shields.io/github/license/legendsSystems/legendsLogs.png">
 	<img src="https://img.shields.io/github/issues/legendsSystems/legendsLogs.png">
-	<a href="https://discord.gg/legendsSystems" title=""><img alt="Discord Status" src="hhttps://cdn.discordapp.com/attachments/1092235101879926854/1092235730924883968/legends-high-resolution-logo-white-on-transparent-background.png"></a>
 </h4>
 
 <div align="center">
@@ -25,7 +24,6 @@
     ·
     <a href="https://github.com/legendsSystems/legendsLogs/issues">Request Feature</a>
   </p>
-  <a href="https://discord.gg/legendsSystems" title=""><img alt="Discord Invite" src="hhttps://cdn.discordapp.com/attachments/1092235101879926854/1092235730924883968/legends-high-resolution-logo-white-on-transparent-background.png?style=banner2"></a>
 </div>
 
 ### 🛠 Requirements
